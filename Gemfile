@@ -16,7 +16,7 @@ gem "seedbank", "~> 0.3.0"
 gem "paper_trail", "~> 4.0.0"
 gem "devise", "~> 3.5.2"
 gem "devise-async", "~> 0.9.0"
-gem "sidekiq", "~> 3.2.2"
+gem "sidekiq", "~> 4.2.6"
 gem "sinatra", "~> 1.4.5", require: false
 gem "sinatra-cross_origin", "~> 0.3.2"
 gem "simple_form", "3.2.0"
